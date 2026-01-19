@@ -1,4 +1,4 @@
-# 🏀 NBA Analytics Dashboard (Statistella Competition)
+# 🏀 NBA Analytics Dashboard
 
 A complete data analytics project built using **Python and Power BI**, focused on understanding NBA scoring trends, team performance, player impact, and conference-level dynamics from **2004 onwards**.
 
@@ -85,20 +85,4 @@ All aggregations were done in Python and exported as CSV files for Power BI.
 - Compared total wins and average win percentage by conference
 - Examined long-term competitive balance between conferences
 
----
-
-## 📁 Project Structure
-
-NBA-Analytics/
-├── analysis.ipynb
-├── visualizations.ipynb
-├── Statistella_NBA_Dashboard.pbix
-├── outputs/
-│   ├── season_scoring.csv
-│   ├── team_season_scoring.csv
-│   ├── home_away_season.csv
-│   ├── player_season_stats.csv
-│   └── conference_season_stats.csv
-├── .gitignore
-└── README.md
 
